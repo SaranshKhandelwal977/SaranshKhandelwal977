@@ -5,7 +5,7 @@
 - 🤝 Always open for collaboration on projects.
 - 📫 How to reach me 👇
     - linkedin - https://www.linkedin.com/in/saransh-khandelwal-31866b1b0/
-    - mail-id ksaransh21@gmail.com 
+    - mail-id - ksaransh21@gmail.com 
 
 
 <!---
