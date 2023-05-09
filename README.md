@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaranshKhandelwal977
+- 👋 Hi, I’m @Saransh-977
 - 👀 I’m interested in all kinds of techs 
 - 🌱 I’m currently learning DSA in C++ and Web Development
 - 👀 I always search for the new oppurtunities to learn different things to enhance my skillset.
