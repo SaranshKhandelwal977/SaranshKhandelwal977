@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SaranshKhandelwal977
 - 👀 I’m interested in all kinds of techs 
-- 🌱 I’m currently learning DSA in C++ and Web Development
-- 👀 I always search for the new oppurtunities to learn different things to enhance my skillset.
-- 🤝 Always open for collaboration on projects.
+- 🌱 I’m a full-stack Web Developer in MERN stack
+- 👀 I always search for new opportunities to learn different things to enhance my skill set.
+- 🤝 Always open to collaboration on projects.
 - 📫 How to reach me 👇
     - linkedin - https://www.linkedin.com/in/saransh-khandelwal-31866b1b0/
     - mail-id - ksaransh21@gmail.com 
