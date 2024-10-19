@@ -37,6 +37,8 @@
 ---
 
 ### 📊 GitHub Stats:
+![Profile Views](https://komarev.com/ghpvc/?username=SaranshKhandelwal977&color=brightgreen)
+
 ![Saransh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaranshKhandelwal977&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaranshKhandelwal977&layout=compact&theme=radical)
 
