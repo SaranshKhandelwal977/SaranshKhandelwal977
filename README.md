@@ -1,12 +1,11 @@
 # Hi 👋, I'm Saransh Khandelwal
 
-🚀 Passionate about Full Stack Development, Open Source, AI, ML, Cloud Computing, and Building Scalable Solutions.  
+🚀 Passionate about Full Stack Development, Open Source, and Building Scalable Solutions.  
 🎓 Final-year B.Tech student in IT
 
 ---
 
 ### 🌟 About Me
-- 🌱 I’m currently learning **ML** and **cloud computing**
 - 🔭 I’m working on **new projects**
 - 💼 Ask me about **Full Stack Development** and **DSA**
 - 📫 How to reach me: ksaransh21@gmail.com
